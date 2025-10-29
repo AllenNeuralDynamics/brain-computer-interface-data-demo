@@ -1,6 +1,6 @@
-# hash:sha256:3c9d29a426b98761f4850f19761a51bc617b8ff57091ae3fa743e582b5f48642
+# hash:sha256:4efff91226fd078c971d1d2444f38b09420bacbd716249ccc1d7909f3dbf1ba2
 ARG REGISTRY_HOST
-FROM $REGISTRY_HOST/codeocean/jupyterlab:3.6.1-miniconda4.12.0-python3.9-ubuntu20.04
+FROM $REGISTRY_HOST/codeocean/mambaforge3:23.1.0-4-python3.10.12-ubuntu22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG GIT_ASKPASS
