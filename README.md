@@ -1,4 +1,4 @@
-# AIND-WWU Workshop 10/30/2025 
+# Brain Computer Interface Data Demo
 
 Capsule with notebook demonstrating how to access data from the [Credit Assignment During Learning](https://www.allenneuraldynamics.org/projects/credit-assignment-during-learning) project. 
 
